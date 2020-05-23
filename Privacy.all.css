@@ -3,3 +3,11 @@ p,h1,h2,ul,li{
               padding: 5px;
               box-sizing: border-box;
               }
+a{
+  position: absolute;
+  Margin: 20px;
+  Padding: 10px;
+  Text-align: center;
+  align-items: center;
+  Display: flex;
+  }
