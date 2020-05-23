@@ -7,7 +7,6 @@ a{
   position: absolute;
   Margin: 20px;
   Padding: 10px;
-  Text-align: center;
-  align-items: center;
-  Display: flex;
+  Text-decoration: none;
+  Color: white;
   }
