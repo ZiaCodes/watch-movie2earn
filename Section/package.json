@@ -1,0 +1,24 @@
+{
+  "name": "cookie-notice-js",
+  "version": "1.2.0",
+  "description": "Show a notice for European cookie law",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cookie",
+    "notice",
+    "vanilla"
+  ],
+  "author": "Alessandro Benoit",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-qunit": "^2.0.0",
+    "grunt-contrib-uglify": "^3.4.0",
+    "grunt-strip-code": "^1.0.6",
+    "phantomjs-prebuilt": "^2.1.16"
+  }
+}
