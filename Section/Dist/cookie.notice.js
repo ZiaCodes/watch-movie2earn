@@ -1,6 +1,6 @@
 /**
  * Cookie Notice JS
- * @author Alessandro Benoit
+ * @author ZiaXdev
  */
 ;
 (function () {
